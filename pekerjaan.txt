@@ -1,2 +1,3 @@
 Pekerjaan 1: Guru
-Pekerjaan 2: Kuli
+Pekerjaan 2: Supir
+Pekerjaan 3: Polisi
